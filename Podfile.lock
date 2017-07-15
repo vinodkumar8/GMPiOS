@@ -1,0 +1,15 @@
+PODS:
+  - Nuke (5.1.1)
+  - SwiftLinkPreview (2.0.5)
+
+DEPENDENCIES:
+  - Nuke (~> 5.0)
+  - SwiftLinkPreview
+
+SPEC CHECKSUMS:
+  Nuke: 0a2ddb4bd13d75782964bf598a159ca2a836d826
+  SwiftLinkPreview: be9b78b79b1b31e00c3468b0476f57534985da7d
+
+PODFILE CHECKSUM: cb81e47be4239c227e0dff63b64340cbd8d848c7
+
+COCOAPODS: 1.1.1
